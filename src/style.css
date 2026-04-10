@@ -24,6 +24,7 @@ body{
 }
 
 input{
+    color: #ffffff;
     width: 320px;
     border: none;
     padding: 24px;
